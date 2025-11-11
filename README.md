@@ -7,7 +7,7 @@
 <img src="https://github.com/user-attachments/assets/2bedd84f-31d7-41bc-9a50-ac2cdcabd445"/>
 <p align="center">
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/2ef2c539-198a-412b-81c1-d9294eadd565"/>
+    <img width="500" height="27" src="https://github.com/user-attachments/assets/20f0911c-dd7c-4be6-aa07-ccadcfbcf108"/>
     <br>
     <br>
 <p align="center">
@@ -17,7 +17,7 @@
   <p align="center">
   <br>
   <p align="center">
-<img src="https://github.com/user-attachments/assets/2ef2c539-198a-412b-81c1-d9294eadd565"/>
+<img src="https://github.com/user-attachments/assets/20f0911c-dd7c-4be6-aa07-ccadcfbcf108"/>
   </p>
 
 <p>
@@ -27,9 +27,7 @@
  ◞˚̣̣̣ ྀིㅤ𝐝𝐞𝐬𝐩𝐢𝐭𝐞 <code style="color : lightskyblue">𝐞𝐯𝐞𝐫𝐲𝐭𝐡𝐢𝐧𝐠</code>, 𝐢𝐭'𝐬 𝐬𝐭𝐢𝐥𝐥 𝐲𝐨𝐮.ㅤı་། ི⏝⠀｡
 
 <br>
-
-  <a>[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bsdqj9hwvkppv42hzun2nxazy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=762323&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)</a>
-  
+<br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2ef2c539-198a-412b-81c1-d9294eadd565"/>
 </p>
