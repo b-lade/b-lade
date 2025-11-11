@@ -17,8 +17,6 @@
 　　 ༏ིྀㅤㅤ𓈒　 ◞   𝒉e  𓎢  ࣪ ˖  ་
 </p>
   <p align="center">
-  <br>
-  <p align="center">
 <img src="https://github.com/user-attachments/assets/20f0911c-dd7c-4be6-aa07-ccadcfbcf108"/>
   </p>
 
